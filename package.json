@@ -16,6 +16,7 @@
   },
   "exports": {
     ".": "./elements.js",
+    "./custom-elements.json": "./custom-elements.json",
     "./lib/*": "./lib/*",
     "./react/*": "./react/*",
     "./*": "./elements/*"
